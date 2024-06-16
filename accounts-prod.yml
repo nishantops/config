@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}354cedd4d24593ddb4ea98d828ab814b9320190f856d962ffca7b1c307a47da60bc5ede082a9923d6f88dbb9e4e11c4b" 
